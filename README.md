@@ -1,6 +1,5 @@
 # Treasure-Island-Game
 
-## This is a little game based on directions. Algortmic flow chart was editted. 
-## It can be expanded
+- Your goal is to find a treasure based on directions. (Nice ASCII code can be seen in the begining)
 
-###Enjoy
+### Enjoy
